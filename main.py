@@ -1,10 +1,6 @@
 import turtle
 import random
 
-############
-#  WINDOW  #
-############
-
 wn = turtle.Screen()
 wn.bgcolor("black")
 wn.tracer(0, 0)
